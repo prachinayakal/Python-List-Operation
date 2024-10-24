@@ -1,5 +1,3 @@
-# Python-List-Operation
-Python list operators allow for powerful manipulation of lists, including repetition, concatenation, finding the length of a list, iterating over elements, and checking for membership. These operators enable flexible and efficient list handling.
 # Python List Operators
 
 This Python script demonstrates various list operations including repetition, concatenation, finding the length of a list, iterating through list elements, and checking for membership within a list.
